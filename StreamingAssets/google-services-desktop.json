@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877470371297",
+    "firebase_url": "https://dragon-fly-new-version.firebaseio.com",
+    "project_id": "dragon-fly-new-version",
+    "storage_bucket": "dragon-fly-new-version.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877470371297:android:42712d80179f91a3aa56a0",
+        "android_client_info": {
+          "package_name": "com.dragon.fly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877470371297-kgbegk5rhuf1bbfvjj5884joio03sg15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8zDNQ5xjCqK2xbGuRpTAExhfACNkWHOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877470371297-kgbegk5rhuf1bbfvjj5884joio03sg15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
